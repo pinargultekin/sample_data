@@ -1,4 +1,4 @@
-OrderDate,Region,Rep,Item,Units,Unit Price
+OrderDate,Region,Rep,Item,Units,UnitPrice
 4-Jul-2014,East,Richard,Pen Set,62,4.99
 12-Jul-2014,East,Nick,Binder,29,1.99
 21-Jul-2014,Central,Morgan,Pen Set,55,12.49
